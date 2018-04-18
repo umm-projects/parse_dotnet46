@@ -1,7 +1,7 @@
 # Parse on .NET 4.6
 
-* .NET 4.6 系でプロジェクトを動かす場合に用いる Parse Plugins
-* Firebase の SDK を用いる場合に利用します
+* Parse Plugins for .NET 4.6
+* Depends on Firebase
 
 ## Requirement
 
@@ -11,9 +11,9 @@
 ## Install
 
 ```shell
-npm install github:umm-projects/parse_dotnet46
+yarn add "umm-projects/parse_dotnet46#^1.0.0"
 ```
 
 ## Usage
 
-* プロジェクトの Scripting Runtime Version が .NET 4.6 であり、Firebse を用いたい場合に利用します
+* Use this module if your project depends Firebase and setting of `Scripting Runtime Version` is **.NET 4.6**.
