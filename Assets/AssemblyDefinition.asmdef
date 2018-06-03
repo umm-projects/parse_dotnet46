@@ -1,0 +1,8 @@
+{
+    "name": "umm@parse_dotnet46",
+    "references": [],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
