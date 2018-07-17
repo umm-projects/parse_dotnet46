@@ -11,7 +11,7 @@
 ## Install
 
 ```shell
-yarn add "umm-projects/parse_dotnet46#^1.0.0"
+yarn add "umm/parse_dotnet46#^1.0.0"
 ```
 
 ## Usage
