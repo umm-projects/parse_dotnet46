@@ -1,6 +1,6 @@
 {
   "name": "@umm/parse_dotnet46",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Parse plugins on .NET 4.6",
   "homepage": "https://github.com/umm/parse_dotnet46",
   "bugs": {
